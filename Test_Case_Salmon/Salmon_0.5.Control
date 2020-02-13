@@ -1,0 +1,27 @@
+Test Example for Input to RBM10_VIC modeling system: Salmon River 0.5 degree grid
+#
+#Temperature Simulation
+Starting Date:            20000101
+Ending Data:              20011231
+Time Steps per Day:       1
+Input directory:          .//
+Output directory:         .//
+Topology File:            .//Salmon_0.5.Topology
+#
+#
+Network File:             .//Salmon_Network_0.5
+#
+#
+Flow File:                .//Salmon_DA_flow
+#
+#
+Heat  File:               .//Salmon_DA_heat
+#
+#
+Mohseni Parameters:       .//Salmon.Mohseni:nogrid 
+#
+#
+Heat Dump:                FALSE
+#
+#
+Ndelta:                   2

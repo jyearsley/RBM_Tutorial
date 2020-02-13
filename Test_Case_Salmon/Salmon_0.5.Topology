@@ -1,0 +1,46 @@
+STREAM LEVEL 2
+STREAMNAME 10 Headwaters 1 6
+Node 10  Row 3 Col 3 Lat 44.75 Lon -116.75 R.M.
+Node 3  Row 4 Col 3 Lat 45.25 Lon -116.75 R.M.
+Node 1  Row 5 Col 3 Lat 45.75 Lon -116.75 R.M.
+
+STREAMNAME 11 Headwaters 2 6
+Node 11  Row 3 Col 5 Lat 44.75 Lon -115.75 R.M.
+Node 5  Row 4 Col 5 Lat 45.25 Lon -115.75 R.M.
+
+STREAMNAME 12 Headwaters 3 6
+Node 12  Row 3 Col 6 Lat 44.75 Lon -115.25 R.M.
+Node 13  Row 3 Col 7 Lat 44.75 Lon -114.75 R.M.
+Node 7  Row 4 Col 7 Lat 45.25 Lon -114.75 R.M.
+
+STREAMNAME 16 Headwaters 5 6
+Node 16  Row 3 Col 10 Lat 44.75 Lon -113.25 R.M.
+Node 9  Row 4 Col 9 Lat 45.25 Lon -113.75 R.M.
+
+STREAMNAME 19 Headwaters 7 6
+Node 19  Row 2 Col 9 Lat 44.25 Lon -113.75 R.M.
+Node 15  Row 3 Col 9 Lat 44.75 Lon -113.75 R.M.
+
+STREAMNAME 14 Headwaters 4 6
+Node 14  Row 3 Col 8 Lat 44.75 Lon -114.25 R.M.
+Node 15  Row 3 Col 9 Lat 44.75 Lon -113.75 R.M.
+
+
+
+STREAM LEVEL 1
+STREAMNAME 17 Headwaters 6 
+Node 17  Row 2 Col 7 Lat 44.25 Lon -114.75 R.M.
+Node 18  Row 2 Col 8 Lat 44.25 Lon -114.25 R.M.
+Node 15  Row 3 Col 9 Lat 44.75 Lon -113.75 R.M.
+Node 9  Row 4 Col 9 Lat 45.25 Lon -113.75 R.M.
+Node 8  Row 4 Col 8 Lat 45.25 Lon -114.25 R.M.
+Node 7  Row 4 Col 7 Lat 45.25 Lon -114.75 R.M.
+Node 6  Row 4 Col 6 Lat 45.25 Lon -115.25 R.M.
+Node 5  Row 4 Col 5 Lat 45.25 Lon -115.75 R.M.
+Node 4  Row 4 Col 4 Lat 45.25 Lon -116.25 R.M.
+Node 2  Row 5 Col 4 Lat 45.75 Lon -116.25 R.M.
+Node 1  Row 5 Col 3 Lat 45.75 Lon -116.75 R.M.
+Node 0  Row 6 Col 2 Lat 46.25 Lon -117.25 R.M.
+
+
+
